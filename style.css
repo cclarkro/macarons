@@ -1,0 +1,18 @@
+.section-search input {
+    padding: 10px 5px !important;
+    font-size: 20px !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+footer h4 {
+    padding-top: 2rem;
+}
+
+.social .fab {
+    padding: 1rem;
+}
+
+.social .fab:hover {
+   cursor: pointer;
+   background-color: #880e4f;
+}
